@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    {% include header.html %} 
+    
+    <!-- Main adapted to style similar to 'Forty by HTML5 UP' -->
+    <div id="main" class="alt">
+      {% for post in site.posts %}
+        {% if post.title != 404 %}
+          <section id="post-banner" class="style2" style="margin-bottom: 40px;">
+            <div class="inner" style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+              {% if post.image %}
+                <span class="image" style="flex: 1;">
+                  <img src="{{ site.baseurl }}/{{ post.image }}" alt="" style="max-width: 100%; height: auto;" />
+                </span>
+              {% endif %}
+              <div class="content" style="flex: 2;">
+                <header class="major">
+                  <h1 style="font-size: 26px;"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+                </header>
+                <p style="font-size: 20px;">{{ post.description }}</p>
+                {% if post.date %}
+                  <p style="font-size: 18px;">{{ post.date | date: '%B %d, %Y' }}</p>
+                {% endif %}
+                <p style="font-size: 18px;">{{ post.excerpt }}</p>
+                <ul class="actions">
+                  <li><a href="{{ post.url | prepend: site.baseurl }}" class="button">Read More</a></li>
+                </ul>
+              </div>
+            </div>
+          </section>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    {% include footer.html %}
+  </body>
+</html> 
