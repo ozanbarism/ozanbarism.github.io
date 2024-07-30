@@ -32,16 +32,16 @@ nav-menu: true
     <h3>Publications</h3>
     <div class="bubble-container">
         <a href="https://arxiv.org/abs/2404.15368" class="bubble journal" target="_blank">
-            <p>Mulayim, O. B., Severnini, E., & Bergés, M. (2024). <em>Unmasking the Role of Remote Sensors in Comfort, Energy and Demand Response</em>.<br /> Data-Centric Engineering (Accepted).</p>
+            <p><strong>Mulayim, O. B.</strong>, Severnini, E., & Bergés, M. (2024). <em>Unmasking the Role of Remote Sensors in Comfort, Energy and Demand Response</em>.<br /> Data-Centric Engineering (Accepted).</p>
         </a>
         <a class="bubble conference" target="_blank">
-            <p>Mulayim, O. B., & Bergés, M. (2024). <em>Beyond Average: Evaluating Indoor Average Temperature in Grey Box Modeling</em>.<br /> International High Performance Buildings Conference (Finalist for best-paper award).</p>
+            <p><strong>Mulayim, O. B.</strong>, & Bergés, M. (2024). <em>Beyond Average: Evaluating Indoor Average Temperature in Grey Box Modeling</em>.<br /> International High Performance Buildings Conference (Finalist for best-paper award).</p>
         </a>
         <a class="bubble conference" target="_blank">
-            <p>Mulayim, O. B., & Bergés, M. (2024). <em>Leveraging Grey Box Models for Enhanced Energy Flexibility in Centralized and Decentralized Single-Zone Multi-Node Systems</em>.<br /> IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (Accepted).</p>
+            <p><strong>Mulayim, O. B.</strong>, & Bergés, M. (2024). <em>Leveraging Grey Box Models for Enhanced Energy Flexibility in Centralized and Decentralized Single-Zone Multi-Node Systems</em>.<br /> IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (Accepted).</p>
         </a>
         <a href="https://dl.acm.org/doi/abs/10.1145/3600100.3623724" class="bubble conference" target="_blank">
-            <p>Mulayim, O. B., & Bergés, M. (2023, November). <em>Unmasking the Thermal Behavior of Single-Zone Multi-Room Houses: An Empirical Study</em>.<br /> In Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (pp. 21-30).</p>
+            <p><strong>Mulayim, O. B.</strong>, & Bergés, M. (2023, November). <em>Unmasking the Thermal Behavior of Single-Zone Multi-Room Houses: An Empirical Study</em>.<br /> In Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (pp. 21-30).</p>
         </a>
     </div>
 </div>
@@ -50,16 +50,17 @@ nav-menu: true
 .bubble-container {
     display: flex;
     flex-direction: column;
-    gap: 15px;
+    gap: 5px; /* Adjust the gap to reduce vertical distance between bubbles */
+    align-items: center; /* Center align bubbles horizontally */
 }
 
 .bubble {
     display: block;
-    padding: 20px;
+    padding: 10px; /* Reduce padding to make bubbles shorter */
     border-radius: 15px;
     text-decoration: none;
     color: #000;
-    width: 80%; /* Adjust width as needed */
+    width: 100%; /* Reset width to default */
     max-width: 600px; /* Ensure bubbles aren't too wide */
     background-color: #f0f0f0;
 }
@@ -76,4 +77,5 @@ nav-menu: true
     background-color: #f0f0f0;
 }
 </style>
+
 
