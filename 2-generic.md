@@ -7,7 +7,7 @@ nav-menu: true
 ---
 
 <!-- Research Section -->
-<div class="6u 12u$(medium)">
+<div class="12u 12u$(medium)">
     <h3>Projects</h3>
     <ul>
         <li>
@@ -34,6 +34,15 @@ nav-menu: true
         <li>
             <p>Mulayim, O. B., & Bergés, M. (2023, November). <em>Unmasking the Thermal Behavior of Single-Zone Multi-Room Houses: An Empirical Study</em>.<br /> In Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (pp. 21-30).</p>
             <a href="https://dl.acm.org/doi/abs/10.1145/3600100.3623724" class="button" target="_blank">Read Publication</a>
+        </li>
+        <li>
+            <p>Mulayim, O. B., & Bergés, M. (2024). <em>Leveraging Grey Box Models for Enhanced Energy Flexibility in Centralized and Decentralized Single-Zone Multi-Node Systems</em>.<br /> IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (Accepted).</p>
+        </li>
+        <li>
+            <p>Mulayim, O. B., & Bergés, M. (2024). <em>Beyond Average: Evaluating Indoor Average Temperature in Grey Box Modeling</em>.<br /> International High Performance Buildings Conference (Finalist for best-paper award).</p>
+        </li>
+        <li>
+            <p>Mulayim, O. B., Severnini, E., & Bergés, M. (2024). <em>Unmasking the Role of Remote Sensors in Comfort, Energy and Demand Response</em>.<br /> Data-Centric Engineering (Accepted).</p>
         </li>
     </ul>
 </div>
