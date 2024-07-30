@@ -49,9 +49,8 @@ nav-menu: true
 <style>
 .bubble-container {
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
     gap: 15px;
-    justify-content: space-between;
 }
 
 .bubble {
@@ -61,7 +60,7 @@ nav-menu: true
     text-decoration: none;
     color: #000;
     width: 100%;
-    max-width: 300px;
+    background-color: #f0f0f0;
 }
 
 .bubble:hover {
