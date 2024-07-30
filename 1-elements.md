@@ -17,7 +17,7 @@ nav-menu: true
         <div class="row">
             <div class="6u 12u$(small)">
                 <!-- Content -->
-		<p>I am a PhD student in Advanced Infrastructure Systems at Carnegie Mellon University. My research focuses on energy flexibility, smart grids, multi-agent reinforcement learning, and semantic technologies.</p>
+		<p>I am a PhD student in Advanced Infrastructure Systems at Carnegie Mellon University. My research focuses on energy flexibility applications by utilizing methods from multi-agent reinforcement learning, large language models, semantic technologies, grey-box modeling and time series foundation models.</p>
 		<p>In my free time, I like to play with my cats, read about history, and drink fermented beverages.</p>
 		<p>So far, I have gotten 11 tattoos, backpacked throughout Europe for 2 months, survived mild hypothermia while camping during a snowstorm in Turkiye, lived in a hostel in Venice for 4 months, fermented my own wine and beer in Ankara, and have visited 50+ cities in 12 countries.</p>
                 <!-- Additional content here -->
@@ -39,9 +39,9 @@ nav-menu: true
 	<div class="6u 12u$(small)">
 	    <h3>Education</h3>
 	    <ul>
-		    <li><strong>PhD in Advanced Infrastructure Systems</strong>, Carnegie Mellon University (2022-Present) - Pittsburgh, PA</li>
-		    <li><strong>Master's in Advanced Infrastructure Systems</strong>, Carnegie Mellon University (2022-2023) - Pittsburgh, PA</li>
-		    <li><strong>Bachelor's in Civil Engineering</strong>, Orta Dogu Teknik Universitesi (2016-2021) - Ankara, Türkiye</li>
+		    <li><strong>PhD in Sustainable Energy Systems</strong>, Carnegie Mellon University (2022-Present) - Pittsburgh, PA</li>
+		    <li><strong>Master's in Sustainable Energy Systems</strong>, Carnegie Mellon University (2022-2023) - Pittsburgh, PA</li>
+		    <li><strong>Bachelor's in Engineering</strong>, Orta Dogu Teknik Universitesi (2016-2021) - Ankara, Türkiye</li>
 	        <!-- Add more <li> elements for each institution you attended -->
 	    </ul>
 	</div>
@@ -49,12 +49,13 @@ nav-menu: true
 		<h3>Skills</h3>
 		<ul>
 		    <li><strong>Programming:</strong> Python, MATLAB, C++, SPARQL</li>
+		    <li><strong>LLM Applications:</strong> Langchain, Langraph, Tavily, ChromaDB, Nixtla</li>
 		    <li><strong>Deep Reinforcement Learning:</strong> PPO, MuZero, DDPG, A3C</li>
 		    <li><strong>Data Science:</strong> Scikit-learn, Pandas, PyTorch, TensorFlow, Ray, PySpark</li>
 		    <li><strong>Computer Vision:</strong> CNNs, Contrastive Learning</li>
-		    <li><strong>Semantic Ontologies:</strong> Brick</li>
+		    <li><strong>Semantic Ontologies:</strong> Brick, Knowledge Graphs</li>
 		    <li><strong>Signal Processing:</strong> Fourier Transforms, Filter Design, Convolution</li>
-		    <li><strong>Genetic Algorithms</strong> NSGA-II, WOA, LM </li>
+		    <li><strong>Genetic Algorithms</strong> NSGA-II, WOA, DE, LM </li>
 		    <li><strong>System Identification:</strong> SciPy, SysIdentPy</li>
 		    <li><strong>Hardware:</strong> Particle Argon, Raspberry Pi</li>
 		</ul>
