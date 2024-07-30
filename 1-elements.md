@@ -64,6 +64,12 @@ nav-menu: true
 	<div class="12u 12u$(medium)">
 		<h3>Professional Experience</h3>
 		<ul>
+		    <li><strong>Student Researcher/Affiliate</strong>, Lawrence Berkeley National Laboratory (05/2024 – ongoing) - Milan, Italy
+		        <ul>
+		            <li> Energy Technologies Area:Electronics, Lighting & Networks Group. </li>
+			    <li> Guided Research in LLM applications for Knowledge Graph Question Answering based on descriptions of metadata requirements. </li>
+		        </ul>
+		    </li>
 		    <li><strong>Visiting Researcher</strong>, Politecnico Di Milano (04/2022 – 07/2022) - Milan, Italy
 		        <ul>
 		            <li>Guided preliminary design of bridges using Non-Dominated Sorting Genetic Algorithm-II (NSGA-II) focusing on environmental, economical, and aesthetic objectives.</li>
