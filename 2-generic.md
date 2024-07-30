@@ -59,7 +59,8 @@ nav-menu: true
     border-radius: 15px;
     text-decoration: none;
     color: #000;
-    width: 100%;
+    width: 80%; /* Adjust width as needed */
+    max-width: 600px; /* Ensure bubbles aren't too wide */
     background-color: #f0f0f0;
 }
 
