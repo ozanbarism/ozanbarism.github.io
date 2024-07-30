@@ -31,17 +31,17 @@ nav-menu: true
 <div class="12u 12u$(medium)">
     <h3>Publications</h3>
     <div class="bubble-container">
-        <a href="https://dl.acm.org/doi/abs/10.1145/3600100.3623724" class="bubble" target="_blank">
-            <p>Mulayim, O. B., & Bergés, M. (2023, November). <em>Unmasking the Thermal Behavior of Single-Zone Multi-Room Houses: An Empirical Study</em>.<br /> In Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (pp. 21-30).</p>
+        <a href="https://arxiv.org/abs/2404.15368" class="bubble journal" target="_blank">
+            <p>Mulayim, O. B., Severnini, E., & Bergés, M. (2024). <em>Unmasking the Role of Remote Sensors in Comfort, Energy and Demand Response</em>.<br /> Data-Centric Engineering (Accepted).</p>
         </a>
-        <a class="bubble" target="_blank">
-            <p>Mulayim, O. B., & Bergés, M. (2024). <em>Leveraging Grey Box Models for Enhanced Energy Flexibility in Centralized and Decentralized Single-Zone Multi-Node Systems</em>.<br /> IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (Accepted).</p>
-        </a>
-        <a class="bubble" target="_blank">
+        <a class="bubble conference" target="_blank">
             <p>Mulayim, O. B., & Bergés, M. (2024). <em>Beyond Average: Evaluating Indoor Average Temperature in Grey Box Modeling</em>.<br /> International High Performance Buildings Conference (Finalist for best-paper award).</p>
         </a>
-        <a class="bubble" target="_blank">
-            <p>Mulayim, O. B., Severnini, E., & Bergés, M. (2024). <em>Unmasking the Role of Remote Sensors in Comfort, Energy and Demand Response</em>.<br /> Data-Centric Engineering (Accepted).</p>
+        <a class="bubble conference" target="_blank">
+            <p>Mulayim, O. B., & Bergés, M. (2024). <em>Leveraging Grey Box Models for Enhanced Energy Flexibility in Centralized and Decentralized Single-Zone Multi-Node Systems</em>.<br /> IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (Accepted).</p>
+        </a>
+        <a href="https://dl.acm.org/doi/abs/10.1145/3600100.3623724" class="bubble conference" target="_blank">
+            <p>Mulayim, O. B., & Bergés, M. (2023, November). <em>Unmasking the Thermal Behavior of Single-Zone Multi-Room Houses: An Empirical Study</em>.<br /> In Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (pp. 21-30).</p>
         </a>
     </div>
 </div>
@@ -51,13 +51,13 @@ nav-menu: true
     display: flex;
     flex-wrap: wrap;
     gap: 15px;
+    justify-content: space-between;
 }
 
 .bubble {
     display: block;
     padding: 20px;
     border-radius: 15px;
-    background-color: #f0f0f0;
     text-decoration: none;
     color: #000;
     width: 100%;
@@ -66,6 +66,14 @@ nav-menu: true
 
 .bubble:hover {
     background-color: #e0e0e0;
+}
+
+.journal {
+    background-color: #d1e7dd;
+}
+
+.conference {
+    background-color: #f0f0f0;
 }
 </style>
 
