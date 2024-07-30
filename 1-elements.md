@@ -64,9 +64,9 @@ nav-menu: true
 	<div class="12u 12u$(medium)">
 		<h3>Professional Experience</h3>
 		<ul>
-		    <li><strong>Student Researcher/Affiliate</strong>, Lawrence Berkeley National Laboratory (05/2024 – ongoing) - Milan, Italy
+		    <li><strong>Student Researcher/Affiliate</strong>, Lawrence Berkeley National Laboratory (05/2024 – ongoing) - Berkeley, CA, USA
 		        <ul>
-		            <li> Energy Technologies Area: Electronics, Lighting & Networks Group. </li>
+		            Energy Technologies Area: Electronics, Lighting & Networks Group.
 			    <li> Guided Research in LLM applications for Knowledge Graph Question Answering based on descriptions of metadata requirements. </li>
 		        </ul>
 		    </li>
