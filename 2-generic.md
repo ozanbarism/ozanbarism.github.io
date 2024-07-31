@@ -56,12 +56,13 @@ nav-menu: true
 
 .bubble {
     display: block;
-    padding: 10px; /* Reduce padding to make bubbles shorter */
-    border-radius: 5px;
+    padding: 5px 10px; /* Reduce padding to make bubbles shorter */
+    border-radius: 15px;
     text-decoration: none;
     color: #000;
     width: 100%; /* Reset width to default */
     background-color: #f0f0f0;
+    line-height: 1.2; /* Adjust line height for compactness */
 }
 
 .bubble:hover {
