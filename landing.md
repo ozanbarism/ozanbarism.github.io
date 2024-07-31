@@ -25,8 +25,20 @@ function toggleExtendedContent(contentId) {
                 <p>Just got back from a fantastic gathering of minds at the High Performance Buildings Conference and the Intelligent Building Operations Workshop (IBO) at Herrick Labs, Purdue University! I had the pleasure of presenting our "beyond-average" paper, which was nominated for the best student paper—quite the thrill!</p>
             </div>
         </div>
+    <section>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Starting a Researcher Position at LBNL</h3>
+                </header>
+                <p>I'm excited to announce that I have started a new position as a Researcher/Affiliate in the Energy Technologies Area at Lawrence Berkeley National Laboratory (LBNL). I'll be part of the Electronics, Lighting & Networks Group, focusing on research in LLM-guided development of SPARQL queries for knowledge graphs based on descriptions of metadata requirements.</p>
+            </div>
+        </div>
+        <a href="https://buildings.lbl.gov/electronics-lighting-networks" class="image">
+            <img src="assets/images/lbnl_research.jpg" alt="Research at LBNL" data-position="center right">
+        </a>
     </section>
-    
+</section>    
 </section>
 
 <!-- One -->
