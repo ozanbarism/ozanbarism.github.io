@@ -14,7 +14,7 @@ function toggleExtendedContent(contentId) {
 <!-- Update -->
 <section id="update" class="spotlights">
         <section>
-        <a class="image" style="width: 50%; float: right; margin-left: 20px;">
+        <a href="https://engineering.purdue.edu/Herrick/about/news/Conferences/2024/index_html" class="image" style="width: 50%; float: right; margin-left: 20px;">
             <img src="assets/images/herrick_presentation.JPG" alt="Presentation at Herrick Labs" data-position="center right">
         </a>
         <div class="content">
