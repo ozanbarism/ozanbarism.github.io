@@ -14,21 +14,21 @@ function toggleExtendedContent(contentId) {
 <!-- Main -->
 <div id="main">
 <!-- Update -->
-<section id="update" class="spotlights">
-     <section>
-        <header class="major">
-            <h2>Herrick Conferences & IBO Workshop 2024</h2>
-        </header>
-        <div class="content">
-            <div class="inner">
-                <p>Just got back from a fantastic gathering of minds at the High Performance Buildings Conference and the Intelligent Building Operations Workshop (IBO) at Herrick Labs, Purdue University! I had the pleasure of presenting our "beyond-average" paper, which was nominated for the best student paper—quite the thrill!</p>
+    <section id="update" class="spotlights">
+        <section>
+            <header class="major">
+                <h2>Herrick Conferences & IBO Workshop 2024</h2>
+            </header>
+            <div class="content">
+                <div class="inner">
+                    <p>Just got back from a fantastic gathering of minds at the High Performance Buildings Conference and the Intelligent Building Operations Workshop (IBO) at Herrick Labs, Purdue University! I had the pleasure of presenting our "beyond-average" paper, which was nominated for the best student paper—quite the thrill!</p>
+                </div>
             </div>
-        </div>
-        <div href="https://engineering.purdue.edu/Herrick/about/news/Conferences/2024/index_html" class="image">
-            <img src="assets/images/herrick_presentation.JPG" alt="Presentation at Herrick Labs" data-position="top center" style="width: 50%; height: auto;">
-        </div>
+            <a href="https://engineering.purdue.edu/Herrick/about/news/Conferences/2024/index_html" class="image">
+                <img src="assets/images/herrick_presentation.JPG" alt="Presentation at Herrick Labs" data-position="top center" style="width: 100%; height: auto;">
+            </a>
+        </section>
     </section>
-</section>
 
 
     
