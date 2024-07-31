@@ -14,8 +14,8 @@ function toggleExtendedContent(contentId) {
 <!-- Main -->
 <div id="main">
 <!-- Update -->
-<section id="update">
-    <div class="inner">
+<section id="update" class="spotlights">
+     <section>
         <header class="major">
             <h2>Herrick Conferences & IBO Workshop 2024</h2>
         </header>
@@ -27,8 +27,11 @@ function toggleExtendedContent(contentId) {
         <div href="https://engineering.purdue.edu/Herrick/about/news/Conferences/2024/index_html" class="image">
             <img src="assets/images/herrick_presentation.JPG" alt="Presentation at Herrick Labs" data-position="top center" style="width: 50%; height: auto;">
         </div>
-    </div>
+    </section>
 </section>
+
+
+    
 <!-- One -->
 <section id="one">
     <div class="inner">
