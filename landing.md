@@ -25,6 +25,7 @@ function toggleExtendedContent(contentId) {
                 <p>Just got back from a fantastic gathering of minds at the High Performance Buildings Conference and the Intelligent Building Operations Workshop (IBO) at Herrick Labs, Purdue University! I had the pleasure of presenting our "beyond-average" paper, which was nominated for the best student paper—quite the thrill!</p>
             </div>
         </div>
+    </section> 
     <section>
         <div class="content">
             <div class="inner">
@@ -38,7 +39,6 @@ function toggleExtendedContent(contentId) {
             <img src="assets/images/lbnl_research.jpg" alt="Research at LBNL" data-position="center right">
         </a>
     </section>
-</section>    
 </section>
 
 <!-- One -->
