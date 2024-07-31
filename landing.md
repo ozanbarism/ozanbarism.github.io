@@ -36,7 +36,7 @@ function toggleExtendedContent(contentId) {
             </div>
         </div>
         <a href="https://buildings.lbl.gov/electronics-lighting-networks" class="image">
-            <img src="assets/images/lbnl_research.jpg" alt="Research at LBNL" data-position="center right">
+            <img src="assets/images/lbnl_research.jpg" alt="Research at LBNL" data-position="top center">
         </a>
     </section>
 </section>
