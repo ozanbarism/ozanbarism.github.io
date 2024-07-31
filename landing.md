@@ -27,6 +27,9 @@ function toggleExtendedContent(contentId) {
         </div>
     </section> 
     <section>
+        <a href="https://buildings.lbl.gov/electronics-lighting-networks" class="image">
+            <img src="assets/images/lbnl_research.jpg" alt="Research at LBNL" data-position="top center">
+        </a>
         <div class="content">
             <div class="inner">
                 <header class="major">
@@ -35,9 +38,7 @@ function toggleExtendedContent(contentId) {
                 <p>I'm excited to announce that I have started a new position as a Researcher/Affiliate in the Energy Technologies Area at Lawrence Berkeley National Laboratory (LBNL). I'll be part of the Electronics, Lighting & Networks Group, focusing on research in LLM-guided development of SPARQL queries for knowledge graphs based on descriptions of metadata requirements.</p>
             </div>
         </div>
-        <a href="https://buildings.lbl.gov/electronics-lighting-networks" class="image">
-            <img src="assets/images/lbnl_research.jpg" alt="Research at LBNL" data-position="top center">
-        </a>
+
     </section>
 </section>
 
