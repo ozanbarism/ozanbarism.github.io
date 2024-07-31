@@ -24,8 +24,8 @@ function toggleExtendedContent(contentId) {
                 <p>Just got back from a fantastic gathering of minds at the High Performance Buildings Conference and the Intelligent Building Operations Workshop (IBO) at Herrick Labs, Purdue University! I had the pleasure of presenting our "beyond-average" paper, which was nominated for the best student paper—quite the thrill!</p>
             </div>
         </div>
-        <div class="image" style="width: 50%; float: right; margin-left: 20px;">
-            <img src="assets/images/herrick_presentation.JPG" alt="Presentation at Herrick Labs" data-position="center right" style="width: 50%; height: auto;">
+        <div href="https://engineering.purdue.edu/Herrick/about/news/Conferences/2024/index_html" class="image">
+            <img src="assets/images/herrick_presentation.JPG" alt="Presentation at Herrick Labs" data-position="top center" style="width: 50%; height: auto;">
         </div>
     </div>
 </section>
