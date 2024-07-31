@@ -13,14 +13,20 @@ function toggleExtendedContent(contentId) {
 </script>
 <!-- Main -->
 <div id="main">
-
 <!-- Update -->
 <section id="update">
     <div class="inner">
         <header class="major">
             <h2>Herrick Conferences & IBO Workshop 2024</h2>
         </header>
-        <p>Just got back from a fantastic gathering of minds at the High Performance Buildings Conference and the Intelligent Building Operations Workshop (IBO) at Herrick Labs, Purdue University! I had the pleasure of presenting our "beyond-average" paper, which was nominated for the best student paper—quite the thrill!</p>
+        <div class="content">
+            <div class="inner">
+                <p>Just got back from a fantastic gathering of minds at the High Performance Buildings Conference and the Intelligent Building Operations Workshop (IBO) at Herrick Labs, Purdue University! I had the pleasure of presenting our "beyond-average" paper, which was nominated for the best student paper—quite the thrill!</p>
+            </div>
+        </div>
+        <div class="image">
+            <img src="assets/images/herrick_presentation.JPG" alt="Presentation at Herrick Labs" data-position="center right">
+        </div>
     </div>
 </section>
 
@@ -28,7 +34,7 @@ function toggleExtendedContent(contentId) {
 <section id="one">
     <div class="inner">
         <header class="major">
-            <h2>IBO Workshop 2023 </h2>
+            <h2>IBO Workshop 2023</h2>
         </header>
         <p>I attended the 2023 Intelligent Building Operations Workshop, where I gained significant insights into real-world implementations, drawing from both current research and industry practices. My thanks go to the organizing team for bringing together such a great crowd.</p>
     </div>
@@ -99,4 +105,5 @@ function toggleExtendedContent(contentId) {
         </div>
     </section>
 </section>
+
 
