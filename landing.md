@@ -25,7 +25,7 @@ function toggleExtendedContent(contentId) {
             </div>
         </div>
         <div class="image" style="width: 50%; float: right; margin-left: 20px;">
-            <img src="assets/images/herrick_presentation.JPG" alt="Presentation at Herrick Labs" data-position="center right" style="width: 100%; height: auto;">
+            <img src="assets/images/herrick_presentation.JPG" alt="Presentation at Herrick Labs" data-position="center right" style="width: 50%; height: auto;">
         </div>
     </div>
 </section>
