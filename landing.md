@@ -38,7 +38,6 @@ function toggleExtendedContent(contentId) {
                 <p>I'm excited to announce that I have started a new position as a Researcher/Affiliate in the Energy Technologies Area at Lawrence Berkeley National Laboratory (LBNL). I'll be part of the Electronics, Lighting & Networks Group, focusing on research in LLM-guided development of SPARQL queries for knowledge graphs based on descriptions of metadata requirements.</p>
             </div>
         </div>
-
     </section>
 </section>
 
