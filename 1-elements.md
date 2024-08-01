@@ -92,18 +92,15 @@ nav-menu: true
 		</ul>
 	</div>
 </div>
-<!-- Research Section -->
-<div class="12u 12u$(medium)">
-    <h3>Research Overview</h3>
-    <p>My research focuses on advancing the field of Advanced Infrastructure Systems through innovative methodologies and technologies. Key areas include energy flexibility, smart grids, and the application of machine learning for infrastructure resilience.</p>
-    <!-- Button to detailed Research page -->
-    <ul class="actions">
-        <li><a href="https://www.ozanbaris.org/2-generic.html" class="button">Learn More About My Research</a></li>
-    </ul>
+
+<!-- Button to detailed Research page -->
+<ul class="actions">
+    <li><a href="https://www.ozanbaris.org/2-generic.html" class="button">Learn More About My Research</a></li>
+</ul>
 <ul class="actions">
     <li><a href="assets/images/Ozan-Baris-Mulayim-CV.pdf" class="button" download><i class="fa fa-download"></i> Download My CV</a></li>
 </ul>
-</div>
+
 
 
 
