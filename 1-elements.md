@@ -94,10 +94,11 @@ nav-menu: true
 </div>
 
 <!-- Button to detailed Research page -->
-<ul class="actions" style="margin-bottom: 10px;">
+<ul class="actions">
     <li><a href="https://www.ozanbaris.org/2-generic.html" class="button">Learn More About My Research</a></li>
 </ul>
-<ul class="actions" style="margin-bottom: 10px;">
+<p></p>
+<ul class="actions">
     <li><a href="assets/images/Ozan-Baris-Mulayim-CV.pdf" class="button" download><i class="fa fa-download"></i> Download My CV</a></li>
 </ul>
 
