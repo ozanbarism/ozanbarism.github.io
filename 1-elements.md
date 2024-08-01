@@ -17,7 +17,7 @@ nav-menu: true
         <div class="row">
             <div class="6u 12u$(small)">
                 <!-- Content -->
-		<p>I am a PhD student in Advanced Infrastructure Systems at Carnegie Mellon University. My research focuses on energy flexibility applications by utilizing methods from multi-agent reinforcement learning, large language models, semantic technologies, grey-box modeling and time series foundation models.</p>
+		<p>I am a PhD student in Sustainable Energy Systems at Carnegie Mellon University. My research focuses on energy flexibility applications by utilizing methods from multi-agent reinforcement learning, large language models, semantic technologies, grey-box modeling and time series foundation models.</p>
 		<p>In my free time, I like to play with my cats, read about history, and drink fermented beverages.</p>
 		<p>So far, I have gotten 11 tattoos, backpacked throughout Europe for 2 months, survived mild hypothermia while camping during a snowstorm in Turkiye, lived in a hostel in Venice for 4 months, fermented my own wine and beer in Ankara, and have visited 50+ cities in 12 countries.</p>
                 <!-- Additional content here -->
