@@ -13,8 +13,21 @@ function toggleExtendedContent(contentId) {
 </script>
 <!-- Update -->
 <section id="update" class="spotlights">
+            <section>
+            <a href="https://sites.harvard.edu/nsf-rl-workshop/" 
+               style="width: 50%; float: right; margin-left: 20px;">
+            </a>
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                       <h3>NSF Workshop on Reinforcement Learning</h3>
+                    </header>
+                    <p>I was at Boston learning about why/when RL fails, and why controls people are sad.</p>
+                </div>
+            </div>
+        </section>
         <section>
-            <a href="https://engineering.purdue.edu/Herrick/about/news/Conferences/2024/index_html" 
+            <a href="https://www.cphs2024.org/" 
                style="width: 50%; float: right; margin-left: 20px;">
             </a>
             <div class="content">
