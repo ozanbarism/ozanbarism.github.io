@@ -14,6 +14,19 @@ function toggleExtendedContent(contentId) {
 <!-- Update -->
 <section id="update" class="spotlights">
         <section>
+            <a href="https://engineering.purdue.edu/Herrick/about/news/Conferences/2024/index_html" 
+               style="width: 50%; float: right; margin-left: 20px;">
+            </a>
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                       <h3>IFAC Cyber-Physical Human Systems Conference</h3>
+                    </header>
+                    <p>Thanks to the scholarship from the Fellows Program, I attended CPHS 2024, where I learned a lot and enjoyed great food.</p>
+                </div>
+            </div>
+        </section>
+        <section>
         <a href="https://engineering.purdue.edu/Herrick/about/news/Conferences/2024/index_html" class="image" style="width: 50%; float: right; margin-left: 20px;">
             <img src="assets/images/herrick_presentation.JPG" alt="Presentation at Herrick Labs" data-position="center right">
         </a>
