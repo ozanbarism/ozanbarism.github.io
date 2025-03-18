@@ -29,7 +29,7 @@ nav-menu: true
 
 <!-- Publications Section -->
 <div class="12u 12u$(medium)">
-    <h3>Publications</h3>
+    <h3>Publications <small>(probably outdated, check <a href="https://scholar.google.com/citations?user=j2aWmlQAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>)</small></h3>
     <div class="bubble-container">
         <!-- 2025 Publications -->
         <a href="http://arxiv.org/abs/2501.16368" class="bubble journal" target="_blank">
