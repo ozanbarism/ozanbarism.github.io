@@ -61,7 +61,7 @@ nav-menu: true
             <p><strong class="first-author">Mulayim, O. B.</strong>, & Bergés, M. (2024). <em>Beyond Average: Evaluating Indoor Average Temperature in Grey Box Modeling</em>.<br /> International High Performance Buildings Conference.</p>
         </a>
         <a class="bubble conference" target="_blank">
-            <p><strong class="first-author">Mulayim, O. B.</strong>, Qu, G., Kircher, K., & Bergés, M. (2024). <em>Physics-Informed RL for Real-World HVAC Controls: Lessons from Imitation to Deployment</em>.<br /> Reinforcement Learning Journal.</p>
+            <p><strong class="first-author">Mulayim, O. B.</strong>, Qu, G., Kircher, K., & Bergés, M. (2024). <em>Physics-Informed RL for Real-World HVAC Controls: Lessons from Imitation to Deployment</em>.<br /> Reinforcement Learning Journal (Submitted).</p>
         </a>
         <!-- 2023 Publications -->
         <a href="https://dl.acm.org/doi/10.1145/3600100.3623724" class="bubble conference" target="_blank">
