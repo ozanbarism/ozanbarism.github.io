@@ -17,7 +17,7 @@ nav-menu: true
         <div class="row">
             <div class="6u 12u$(small)">
                 <!-- Content -->
-		<p>I am a PhD ~~student~~ candidate in Sustainable Energy Systems at Carnegie Mellon University. My research focuses on energy flexibility applications by utilizing methods from physics-informed reinforcement learning, large language models, semantic technologies, grey-box modeling, and time series foundation models.</p>
+		<p>I am a PhD <del>student</del> candidate in Sustainable Energy Systems at Carnegie Mellon University. My research focuses on energy flexibility applications by utilizing methods from physics-informed reinforcement learning, large language models, semantic technologies, grey-box modeling, and time series foundation models.</p>
 		<p>In my free time, I like to play with my cats, go on hikes, read about history, and drink fermented beverages.</p>
 		<p>So far, I have gotten 11 tattoos (one of them is the DOI of my first paper), backpacked throughout Europe for two months, survived mild hypothermia while camping during a snowstorm in Türkiye, lived in a hostel in Venice for four months, fermented my own wine and beer in Ankara, and visited a bunch of cities in a bunch of countries.</p>
                 <!-- Additional content here -->
