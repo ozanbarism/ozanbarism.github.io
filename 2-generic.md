@@ -31,20 +31,45 @@ nav-menu: true
 <div class="12u 12u$(medium)">
     <h3>Publications</h3>
     <div class="bubble-container">
-        <a href="https://arxiv.org/abs/2404.15368" class="bubble journal" target="_blank">
-            <p><strong class="first-author">Mulayim, O. B.</strong>, Severnini, E., & Bergés, M. (2024). <em>Unmasking the Role of Remote Sensors in Comfort, Energy and Demand Response</em>.<br /> Data-Centric Engineering (Accepted).</p>
+        <!-- 2025 Publications -->
+        <a href="http://arxiv.org/abs/2501.16368" class="bubble journal" target="_blank">
+            <p><strong class="first-author">Baris, O.</strong>, Chen, Y., Dong, G., Han, L., Kimura, T., Quan, P., Wang, R., Wang, T., Abdelzaher, T., Bergés, M., Liang, P. P., & Srivastava, M. (2025). <em>Foundation Models for CPS-IoT: Opportunities and Challenges</em>.<br /> arXiv.</p>
+        </a>
+        <a href="https://openreview.net/forum?id=bmE39sqscK" class="bubble conference" target="_blank">
+            <p><strong class="first-author">Quan, P.</strong>, Mulayim, O. B., Han, L., Hong, D., Bergés, M., & Srivastava, M. (2025). <em>Reimagining Time Series Foundation Models: Metadata and State-Space Model Perspectives</em>.<br /> NeurIPS Workshop on Time Series in the Age of Large Models.</p>
         </a>
         <a class="bubble conference" target="_blank">
-            <p><strong class="first-author">Mulayim, O. B.</strong>, & Bergés, M. (2024). <em>Beyond Average: Evaluating Indoor Average Temperature in Grey Box Modeling</em>.<br /> International High Performance Buildings Conference (Finalist for best-paper award).</p>
+            <p><strong class="first-author">Mulayim, O. B.</strong>, & Bergés, M. (2025). <em>On the Impact of Simulated Occupancy Behavior Assumptions on Reinforcement Learning for HVAC Controls</em>.<br /> Conference in Rotterdam, Netherlands.</p>
         </a>
         <a class="bubble conference" target="_blank">
-            <p><strong class="first-author">Mulayim, O. B.</strong>, & Bergés, M. (2024). <em>Leveraging Grey Box Models for Enhanced Energy Flexibility in Centralized and Decentralized Single-Zone Multi-Node Systems</em>.<br /> IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (Accepted).</p>
+            <p><strong class="first-author">Mulayim, O. B.</strong>, Fierro, G., Bergés, M., & Pritoni, M. (2025). <em>Towards Zero-shot Question Answering in CPS-IoT: Large Language Models and Knowledge Graphs</em>.<br /> The 2nd International Workshop on Foundation Models for CPS-IoT (Submitted).</p>
         </a>
-        <a href="https://dl.acm.org/doi/abs/10.1145/3600100.3623724" class="bubble conference" target="_blank">
-            <p><strong class="first-author">Mulayim, O. B.</strong>, & Bergés, M. (2023, November). <em>Unmasking the Thermal Behavior of Single-Zone Multi-Room Houses: An Empirical Study</em>.<br /> In Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (pp. 21-30).</p>
+        <!-- 2024 Publications -->
+        <a href="https://www.cambridge.org/core/journals/data-centric-engineering/article/unmasking-the-role-of-remote-sensors-in-comfort-energy-and-demand-response/E16D3E3AE43075A636FABDAC25E6DFBF" class="bubble journal" target="_blank">
+            <p><strong class="first-author">Mulayim, O. B.</strong>, Severnini, E., & Bergés, M. (2024). <em>Unmasking the Role of Remote Sensors in Comfort, Energy, and Demand Response</em>.<br /> Data-Centric Engineering.</p>
+        </a>
+        <a href="https://ieeexplore.ieee.org/abstract/document/10738056/" class="bubble conference" target="_blank">
+            <p><strong class="first-author">Mulayim, O. B.</strong>, & Bergés, M. (2024). <em>Leveraging Grey Box Models for Enhanced Energy Flexibility in Centralized and Decentralized Single-Zone Multi-Node Systems</em>.<br /> IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids.</p>
+        </a>
+        <a href="https://dl.acm.org/doi/10.1145/3671127.3698792" class="bubble conference" target="_blank">
+            <p><strong class="first-author">Mulayim, O. B.</strong>, Paul, L., Pritoni, M., Prakash, A. K., Sudarshan, M., & Fierro, G. (2024). <em>Large Language Models for the Creation and Use of Semantic Ontologies in Buildings: Requirements and Challenges</em>.<br /> ACM BuildSys.</p>
+        </a>
+        <a href="https://dl.acm.org/doi/10.1145/3671127.3698177" class="bubble conference" target="_blank">
+            <p><strong class="first-author">Mulayim, O. B.</strong>, Quan, P., Han, L., Ouyang, X., Hong, D., Bergés, M., & Srivastava, M. (2024). <em>Are Time Series Foundation Models Ready to Revolutionize Predictive Building Analytics?</em><br /> ACM BuildSys.</p>
+        </a>
+        <a href="https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1436&context=ihpbc" class="bubble conference" target="_blank">
+            <p><strong class="first-author">Mulayim, O. B.</strong>, & Bergés, M. (2024). <em>Beyond Average: Evaluating Indoor Average Temperature in Grey Box Modeling</em>.<br /> International High Performance Buildings Conference.</p>
+        </a>
+        <a class="bubble conference" target="_blank">
+            <p><strong class="first-author">Mulayim, O. B.</strong>, Qu, G., Kircher, K., & Bergés, M. (2024). <em>Physics-Informed RL for Real-World HVAC Controls: Lessons from Imitation to Deployment</em>.<br /> Reinforcement Learning Journal.</p>
+        </a>
+        <!-- 2023 Publications -->
+        <a href="https://dl.acm.org/doi/10.1145/3600100.3623724" class="bubble conference" target="_blank">
+            <p><strong class="first-author">Mulayim, O. B.</strong>, & Bergés, M. (2023). <em>Unmasking the Thermal Behavior of Single-Zone Multi-Room Houses: An Empirical Study</em>.<br /> ACM BuildSys.</p>
         </a>
     </div>
 </div>
+
 
 <style>
 .bubble-container {
