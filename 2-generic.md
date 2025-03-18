@@ -39,10 +39,10 @@ nav-menu: true
             <p><strong class="first-author">Quan, P., Mulayim, O. B.</strong>, Han, L., Hong, D., Bergés, M., & Srivastava, M. (2025). <em>Reimagining Time Series Foundation Models: Metadata and State-Space Model Perspectives</em>.<br /> NeurIPS Workshop on Time Series in the Age of Large Models.</p>
         </a>
         <a class="bubble conference" target="_blank">
-            <p><strong class="first-author">Mulayim, O. B.</strong>, & Bergés, M. (2025). <em>On the Impact of Simulated Occupancy Behavior Assumptions on Reinforcement Learning for HVAC Controls</em>.<br /> Conference in Rotterdam, Netherlands.</p>
+            <p><strong class="first-author">Mulayim, O. B.</strong>, & Bergés, M. (2025). <em>On the Impact of Simulated Occupancy Behavior Assumptions on Reinforcement Learning for HVAC Controls</em>.<br /> The 16th ACM International Conference on Future and Sustainable Energy Systems (ACM e-Energy 2025).</p>
         </a>
         <a class="bubble conference" target="_blank">
-            <p><strong class="first-author">Mulayim, O. B.</strong>, Fierro, G., Bergés, M., & Pritoni, M. (2025). <em>Towards Zero-shot Question Answering in CPS-IoT: Large Language Models and Knowledge Graphs</em>.<br /> The 2nd International Workshop on Foundation Models for CPS-IoT (Submitted).</p>
+            <p><strong class="first-author">Mulayim, O. B.</strong>, Fierro, G., Bergés, M., & Pritoni, M. (2025). <em>Towards Zero-shot Question Answering in CPS-IoT: Large Language Models and Knowledge Graphs</em>.<br /> The 2nd International Workshop on Foundation Models for CPS-IoT (FMSys'25) (Submitted).</p>
         </a>
         <!-- 2024 Publications -->
         <a href="https://www.cambridge.org/core/journals/data-centric-engineering/article/unmasking-the-role-of-remote-sensors-in-comfort-energy-and-demand-response/E16D3E3AE43075A636FABDAC25E6DFBF" class="bubble journal" target="_blank">
