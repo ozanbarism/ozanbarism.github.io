@@ -6,27 +6,6 @@ image:
 nav-menu: true
 ---
 
-<!-- Research Section -->
-<div class="12u 12u$(medium)">
-    <h3>Projects</h3>
-    <ul>
-        <li>
-            <strong>Representation of Energy Flexibility with a Semantic Ontology</strong>, funded by PITA and Johnson Controls (05/2023 – present)
-            <ul>
-                <li>Aim: Facilitating application portability across building automation systems through machine-readable descriptions of physical environments with a specific focus on energy flexibility applications.</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Leveraging Sensor Networks for Flexibility and Comfort</strong> (08/2022 – 08/2023)
-            <ul>
-                <li>Data Scale: Handled a large dataset involving 5-minute resolution data from 1000 houses, equipped with multiple sensors, for the year 2017.</li>
-                <li>ML-Driven Analysis: Employed ML techniques for enhancing comfort in multi-room single-zone houses using smart thermostats and sensor data.</li>
-                <li>Physics-Based Modeling: Applied physics-based ML algorithms to analyze and model energy dynamics in 100 residential units, each equipped with sensor networks comprising 6 nodes.</li>
-            </ul>
-        </li>
-    </ul>
-</div>
-
 <!-- Publications Section -->
 <div class="12u 12u$(medium)">
     <h3>Publications <small>(probably outdated, check <a href="https://scholar.google.com/citations?user=j2aWmlQAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>)</small></h3>
