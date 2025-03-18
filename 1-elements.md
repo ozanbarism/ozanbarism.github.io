@@ -17,9 +17,9 @@ nav-menu: true
         <div class="row">
             <div class="6u 12u$(small)">
                 <!-- Content -->
-		<p>I am a PhD student in Sustainable Energy Systems at Carnegie Mellon University. My research focuses on energy flexibility applications by utilizing methods from multi-agent reinforcement learning, large language models, semantic technologies, grey-box modeling and time series foundation models.</p>
-		<p>In my free time, I like to play with my cats, read about history, and drink fermented beverages.</p>
-		<p>So far, I have gotten 11 tattoos, backpacked throughout Europe for 2 months, survived mild hypothermia while camping during a snowstorm in Turkiye, lived in a hostel in Venice for 4 months, fermented my own wine and beer in Ankara, and have visited 50+ cities in 12 countries.</p>
+		<p>I am a PhD ~~student~~ candidate in Sustainable Energy Systems at Carnegie Mellon University. My research focuses on energy flexibility applications by utilizing methods from physics-informed reinforcement learning, large language models, semantic technologies, grey-box modeling, and time series foundation models.</p>
+		<p>In my free time, I like to play with my cats, go on hikes, read about history, and drink fermented beverages.</p>
+		<p>So far, I have gotten 11 tattoos (one of them is the DOI of my first paper), backpacked throughout Europe for two months, survived mild hypothermia while camping during a snowstorm in Türkiye, lived in a hostel in Venice for four months, fermented my own wine and beer in Ankara, and visited a bunch of cities in a bunch of countries.</p>
                 <!-- Additional content here -->
         </div>
         <div class="6u$ 12u$(small)" style="width: 100%; max-width: calc(50% - 10px); display: flex; flex-direction: column; align-items: flex-end;">
@@ -40,7 +40,7 @@ nav-menu: true
 	    <h3>Education</h3>
 	    <ul>
 		    <li><strong>PhD in Sustainable Energy Systems</strong>, Carnegie Mellon University (2022-Present) - Pittsburgh, PA</li>
-		    <li><strong>Master's in Sustainable Energy Systems</strong>, Carnegie Mellon University (2022-2023) - Pittsburgh, PA</li>
+		    <li><strong>Master's in Sustainable Energy Systems</strong>, Carnegie Mellon University (2022-2024) - Pittsburgh, PA</li>
 		    <li><strong>Bachelor's in Engineering</strong>, Orta Dogu Teknik Universitesi (2016-2021) - Ankara, Türkiye</li>
 	        <!-- Add more <li> elements for each institution you attended -->
 	    </ul>
@@ -67,7 +67,7 @@ nav-menu: true
 		    <li><strong>Student Researcher/Affiliate</strong>, Lawrence Berkeley National Laboratory (05/2024 – ongoing) - Berkeley, CA, USA
 		        <ul>
 		            Energy Technologies Area: Electronics, Lighting & Networks Group.
-			    <li> Guided Research in LLM applications for Knowledge Graph Question Answering based on descriptions of metadata requirements. </li>
+			    <li> Guiding Research in LLM-powered Knowledge Graph Question Answering for semantic models of buildings. </li>
 		        </ul>
 		    </li>
 		    <li><strong>Visiting Researcher</strong>, Politecnico Di Milano (04/2022 – 07/2022) - Milan, Italy
