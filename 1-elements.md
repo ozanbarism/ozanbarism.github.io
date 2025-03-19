@@ -95,7 +95,7 @@ nav-menu: true
 
 <!-- Button to detailed Research page -->
 <ul class="actions">
-    <li><a href="https://www.ozanbaris.org/2-generic.html" class="button">Learn More About My Research</a></li>
+    <li><a href="https://www.ozanbaris.com/2-generic.html" class="button">Learn More About My Research</a></li>
 </ul>
 <p></p>
 <ul class="actions">
