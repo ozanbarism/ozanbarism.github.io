@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-description: not much to show yet but I'm trying
+description: my papers are like my kids
 image: 
 nav-menu: true
 ---
