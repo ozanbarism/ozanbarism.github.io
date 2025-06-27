@@ -113,7 +113,7 @@ nav-menu: true
     <h2>Our Team</h2>
     <div class="row">
         <div class="4u 12u$(small)">
-            <img src="assets/images/me.png" alt="Team Member 1" style="height: 200px; width: auto; object-fit: cover;">
+            <img src="assets/images/me_but_young.png" alt="Team Member 1" style="height: 200px; width: auto; object-fit: cover;">
             <h3>Ozan Baris</h3>
             <p>but younger</p>
         </div>
