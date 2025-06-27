@@ -24,7 +24,7 @@ nav-menu: true
         </div>
         <div class="6u$ 12u$(small)" style="width: 100%; max-width: calc(50% - 10px); display: flex; flex-direction: column; align-items: flex-end;">
             <!-- Place your image here -->
-            <img src="assets/images/directory_pic1.png" alt="A descriptive alternative text" style="width: 600px; height: auto; margin-bottom: 20px;">
+            <img src="assets/images/IMG_8546.jpg" alt="A descriptive alternative text" style="width: 600px; height: auto; margin-bottom: 20px;">
             <!-- Social Icons -->
 	    <div style="width: 100%; text-align: center;">
 	        <ul class="icons">
