@@ -14,6 +14,32 @@ function toggleExtendedContent(contentId) {
 <!-- Update -->
 <section id="update" class="spotlights">
             <section>
+            <a href="https://fmsys-org.github.io/2025/index.html" 
+               style="width: 50%; float: right; margin-left: 20px;">
+            </a>
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                       <h3>Presented at e-Energy</h3>
+                    </header>
+                    <p>My research on assumptions of occupancy behavior in reinforcement learning simulations was presented in ACM e-Energy in Rotterdam, NL.</p>
+                </div>
+            </div>
+        </section>
+            <section>
+            <a href="https://fmsys-org.github.io/2025/index.html" 
+               style="width: 50%; float: right; margin-left: 20px;">
+            </a>
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                       <h3>Best Paper at ACM FMSys</h3>
+                    </header>
+                    <p>I got best paper award at ACM FMSys which happened during CPS-IoT week in Irvine, CA.</p>
+                </div>
+            </div>
+        </section>
+            <section>
             <a href="https://sites.harvard.edu/nsf-rl-workshop/" 
                style="width: 50%; float: right; margin-left: 20px;">
             </a>
