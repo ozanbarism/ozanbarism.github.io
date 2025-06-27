@@ -64,7 +64,6 @@ nav-menu: true
 	<div class="12u 12u$(medium)">
 		<h3>Professional Experience</h3>
 		<ul>
-		</li>
 			<li><strong>PhD Intern</strong>, Google LLC. (05/2025 – 08/2025) - New York, NY, USA
 			    <ul>
 				<li>Conducting research in reinforcement learning for building energy management</li>
