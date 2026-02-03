@@ -17,8 +17,8 @@ nav-menu: true
         <div class="row">
             <div class="6u 12u$(small)">
                 <!-- Content -->
-		<p>I am a PhD <del>student</del> candidate in Sustainable Energy Systems at Carnegie Mellon University. My research focuses on energy flexibility applications by utilizing methods from physics-informed reinforcement learning, large language models, semantic technologies, grey-box modeling, and time series foundation models.</p>
-		<p>Though I spend most of my time doing research (which luckily I enjoy very much), in my free time, I like to do woodworking, go on hikes, paint, and drink fermented beverages.</p>
+		<p>I did my PhD at Carnegie Mellon University. My research focused on energy flexibility applications by utilizing methods from physics-informed reinforcement learning, large language models, semantic technologies, grey-box modeling, and time series foundation models.</p>
+		<p>Though I spent most of my time doing research (which luckily I enjoy very much), in my free time, I like to do woodworking, go on hikes, paint, and drink fermented beverages.</p>
 		<p>So far, I have gotten 11 tattoos (one of them is the DOI of my first paper), backpacked in Europe for two months, survived mild hypothermia while camping during a snowstorm in Türkiye, lived in a hostel in Venice for four months, fermented my own wine and beer in Ankara, and visited a bunch of mountains/cities/convenience stores in a bunch of countries.</p>
                 <!-- Additional content here -->
         </div>
@@ -39,7 +39,7 @@ nav-menu: true
 	<div class="6u 12u$(small)">
 	    <h3>Education</h3>
 	    <ul>
-		    <li><strong>PhD in Sustainable Energy Systems</strong>, Carnegie Mellon University (2022-Present) - Pittsburgh, PA</li>
+		    <li><strong>PhD in Sustainable Energy Systems</strong>, Carnegie Mellon University (2022-2026) - Pittsburgh, PA</li>
 		    <li><strong>Master's in Sustainable Energy Systems</strong>, Carnegie Mellon University (2022-2024) - Pittsburgh, PA</li>
 		    <li><strong>Bachelor's in Engineering</strong>, Orta Dogu Teknik Universitesi (2016-2021) - Ankara, Türkiye</li>
 	        <!-- Add more <li> elements for each institution you attended -->
@@ -64,6 +64,11 @@ nav-menu: true
 	<div class="12u 12u$(medium)">
 		<h3>Professional Experience</h3>
 		<ul>
+			<li><strong>Machine Learning Engineer</strong>, Google LLC. (02/2026) - New York, NY, USA
+			    <ul>
+				<li>Gemini post-training</li>
+			    </ul>
+		    </li>
 			<li><strong>PhD Intern</strong>, Google LLC. (05/2025 – 08/2025) - New York, NY, USA
 			    <ul>
 				<li>Conducting research in reinforcement learning for building energy management</li>
